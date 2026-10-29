@@ -61,18 +61,26 @@ The diagram is a high-level use-case view. For a formal UML submission, represen
 **Frontend:** React.js, HTML, CSS, JavaScript
 
 **Mobile Application:** React Native
-**3D Map Visualization:** Three.js
-**Backend:** Python Flask
-**Database:** PostgreSQL
-**Route Planning Algorithm:** Dijkstra’s Algorithm / A* Algorithm
-**Voice Navigation:** Web Speech API / Text-to-Speech
-**QR Code Integration:** QR Code Generator and Scanner
-**Indoor Positioning:** QR Checkpoints / BLE Beacons
-**Authentication:** Role-Based Authentication
-**Version Control:** Git and GitHub
-**Deployment:** Cloud Hosting
 
-## Dependencies
+**3D Map Visualization:** Three.js
+
+**Backend:** Python Flask
+
+**Database:** PostgreSQL
+
+**Route Planning Algorithm:** Dijkstra’s Algorithm / A* Algorithm
+
+**Voice Navigation:** Web Speech API / Text-to-Speech
+
+**QR Code Integration:** QR Code Generator and Scanner
+
+**Indoor Positioning:** QR Checkpoints / BLE Beacons
+
+**Authentication:** Role-Based Authentication
+
+**Version Control:** Git and GitHub
+
+**Deployment:** Cloud Hosting
 
 ## Dependencies
 
