@@ -59,6 +59,7 @@ The diagram is a high-level use-case view. For a formal UML submission, represen
 
 
 **Frontend:** React.js, HTML, CSS, JavaScript
+
 **Mobile Application:** React Native
 **3D Map Visualization:** Three.js
 **Backend:** Python Flask
